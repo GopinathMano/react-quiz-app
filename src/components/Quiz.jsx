@@ -1,6 +1,6 @@
 
 import { useState,useEffect } from "react"
-import "../app.css";
+import "../App.css";
 
 import useSound from "use-sound";
 import play from "../asset/sound/play.mp3";
